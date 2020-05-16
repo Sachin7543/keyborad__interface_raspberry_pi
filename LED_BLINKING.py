@@ -1,3 +1,8 @@
+##########################################################
+# Auther:Sachin
+# Date of created: 16/3/2020
+##########################################################
+
 import RPi.GPIO as IO   #calling header file for GPIO of PI
 import time             #calling for time to provide delays in program
 IO.setmode(IO.BOARD)    #programming the GPIO by BOARD pin numbers GPIO21 is called as PIN40
